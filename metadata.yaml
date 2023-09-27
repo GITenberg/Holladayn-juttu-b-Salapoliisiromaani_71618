@@ -1,0 +1,28 @@
+_repo: Holladayn-juttu-b-Salapoliisiromaani_71618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71618'
+language: fi
+pgterms:marc905: 20230813053822stevenson
+pgterms:marc906: '1943'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1943.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Holladayn juttu : $b Salapoliisiromaani'
+url: http://www.gutenberg.org/ebooks/71618
